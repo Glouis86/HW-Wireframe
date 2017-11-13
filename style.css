@@ -1,0 +1,36 @@
+Header{ padding: 20px
+margin-bottom: 20px
+color: #777
+backround: #ccc
+clear: both;
+align-content: center;
+width: 960px;
+
+text-align: center;
+}
+backround { color: #777;
+}
+
+content{
+  color: #ebebeb
+
+}
+
+nav {
+padding: 20px;
+margin-bottom:20px
+color:#777
+backround:#ccc
+clear: both;
+align-content: center;
+width:960px;
+text-align:center;
+}
+
+section{
+
+}
+
+body {
+  background-color: grey;
+}
